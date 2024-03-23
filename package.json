@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "notion-readinglist",
+  "version": "1.0.0",
+  "description": "Reading List to import into notion with title, date, and a link to direct user into the web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinkyulee18/NotionReadingList.git"
+  },
+  "author": "John Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinkyulee18/NotionReadingList/issues"
+  },
+  "homepage": "https://github.com/jinkyulee18/NotionReadingList#readme",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
